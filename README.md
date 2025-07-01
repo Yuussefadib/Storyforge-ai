@@ -64,3 +64,19 @@ npm install
 
 # Run the development server
 npm run dev
+
+📦 Folder Structure
+
+Storyforge-ai/
+│
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.js
+│   ├── components/
+│   └── styles/
+├── .env
+├── package.json
+└── README.md
+
+
