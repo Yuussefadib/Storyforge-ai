@@ -11,18 +11,14 @@
 
 ## 📸 Screenshots
 
-### 🔹 Homepage  
-Gives users a clean, welcoming interface to get started with story generation.
-
+### Homepage  
 ![Homepage](./screenshots/homepage.png)
 
----
-
-### 🔹 Character Generator  
-Customize a character’s role, personality, background, and more.
-
+### Character Generator  
 ![Character Generator](./screenshots/character-generator.png)
 
+### Story Output  
+![Story Output](./screenshots/story-output.png)
 ---
 
 ### 🔹 Story Output  
