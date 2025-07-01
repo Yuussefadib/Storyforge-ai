@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo  
-👉 [Visit StoryForge-AI](https://storyforge-ai.com/)
+👉 [Visit StoryForge-AI] https://storyforge-ai.com/
 
 ---
 
