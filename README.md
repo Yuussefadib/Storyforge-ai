@@ -9,25 +9,6 @@
 
 ---
 
-## 📸 Screenshots
-
-### Homepage  
-![Homepage](./screenshots/homepage.png)
-
-### Character Generator  
-![Character Generator](./screenshots/character-generator.png)
-
-### Story Output  
-![Story Output](./screenshots/story-output.png)
----
-
-### 🔹 Story Output  
-Instantly view AI-generated story excerpts based on the character.
-
-![Story Output](./screenshots/story-output.png)
-
----
-
 ## ✨ Features
 
 - Clean, responsive UI
