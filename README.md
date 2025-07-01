@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo  
-👉 https://storyforge-ai.com/
+👉 Check out this amazing AI-powered story generator! https://preview--roughly-jumbo-salad.instance.app/
 
 ---
 
